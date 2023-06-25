@@ -7,9 +7,9 @@
 ## Sobre o projeto
 
 Desenvolvimento Ágil:
-Agile Alliance: ![Agile](https://www.agilealliance.org/)
-Scrum.org: https: ![Scrum](//www.scrum.org/)
-Agile Manifesto: ![Manifesto](http://agilemanifesto.org/)
+Agile Alliance: [Agile](https://www.agilealliance.org/)
+Scrum.org: https: [Scrum](//www.scrum.org/)
+Agile Manifesto: [Manifesto](http://agilemanifesto.org/)
 
 # Autor
 Thiago Reis Lima
